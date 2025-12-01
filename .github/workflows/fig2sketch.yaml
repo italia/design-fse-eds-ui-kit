@@ -1,4 +1,4 @@
-name: Release design-ui-kit
+name: Release design-eds-ui-kit
 on:
   workflow_dispatch:
   push:
@@ -20,7 +20,7 @@ jobs:
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-      - uses: italia/figma-to-sketch-action@v1.0.0 # https://github.com/italia/figma-to-sketch-action
+      - uses: italia/figma-to-sketch-action@v1.1.0 # https://github.com/italia/figma-to-sketch-action
         with:
           files: 'file-da-sostituire.fig' # File di input .fig (Figma) separati da `|`
           output_files: 'file-da-sostituire.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
