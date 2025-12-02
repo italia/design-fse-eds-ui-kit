@@ -43,7 +43,7 @@ I prototipi utilizzano componenti collegati alla pre-release dedicata a EDS di *
 5. In `FSE-Libreria-componenti-pre-release-EDS`, effettua lo "swap" dei componenti e stili mancanti ("Missing libraries") con quelli di `UI-Kit-Italia` seguendo la guida ufficiale: 
   - [Swap di una libreria su Figma](https://help.figma.com/hc/en-us/articles/4404856784663-Swap-style-and-component-libraries)
 6. Pubblica gli aggiornamenti della libreria `FSE-Libreria-componenti-pre-release-EDS`.
-7. Dentro al file di ciascun prototipo, seguendo la stessa procedura, effettua lo swap dei componenti e stili mancanti con quelli di `FSE-Libreria-componenti` e `UI-Kit-Italia`.
+7. Dentro al file di ciascun prototipo, seguendo la stessa procedura, effettua lo swap dei componenti e stili mancanti con quelli di `FSE-Libreria-componenti-pre-release-EDS` e `UI-Kit-Italia`.
 8. Aggiungi i file `FSE-Libreria-componenti-pre-release-EDS` e `UI Kit Italia` come librerie seguendo la guida ufficiale:
   - [Aggiungere una libreria in Figma](https://help.figma.com/hc/en-us/articles/1500008731201-Enable-or-disable-a-library-in-a-design-file)
 
