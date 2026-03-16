@@ -14,18 +14,18 @@ Sono allegate alla [release corrente del repository](https://github.com/italia/d
 
 | Risorsa | Nome del file
 |---|-|
-| **UI Kit del Fascicolo Sanitario Elettronico - EDS** | `FSE-EDS-Libreria-componenti` |
-| **Ecosistema Dati Sanitari (EDS)** | `FSE-EDS-Ecosistema-dati-sanitari` |
-| **Gestione dei consensi - EDS** | `FSE-EDS-Gestione-dei-consensi` |
-| **Gestione del taccuino personale - EDS** | `FSE-EDS-Gestione-del-taccuino-personale` |
-| **Professionisti sanitari - EDS** | `FSE-EDS-Professionisti-sanitari` |
-| **Prototipo di base - EDS** | `FSE-EDS-Prototipo-di-base` |
-| **Servizi di patient empowerment - EDS** | `FSE-EDS-Servizi-di-Patient-Empowerment` |
-| **Servizi di variazione della posizione del cittadino rispetto al SSN - EDS** | `FSE-EDS-Servizi-di-variazione-della-posizione-del-cittadino-rispetto-al-SSN` |
-| **Servizi per i miei percorsi di cura - EDS** | `FSE-EDS-Servizi-per-i-miei-percorsi-di-cura` |
-| **Servizio di visualizzazione campagne di screening e prevenzione - EDS** | `FSE-EDS-Campagne-di-screening-e-prevenzione` |
-| **Servizio la mia storia clinica - EDS** | `FSE-EDS-Servizio-la-mia-storia-clinica` |
-| **Servizio per la visualizzazione delle deleghe - EDS** | `FSE-EDS-Servizio-per-la-visualizzazione-delle-deleghe` |
+| **UI Kit del Fascicolo Sanitario Elettronico EDS** | `FSE-EDS-Libreria-componenti` |
+| **FSE EDS - Ecosistema Dati Sanitari (EDS)** | `FSE-EDS-Ecosistema-dati-sanitari` |
+| **FSE EDS - Gestione dei consensi** | `FSE-EDS-Gestione-dei-consensi` |
+| **FSE EDS - Gestione del taccuino personale** | `FSE-EDS-Gestione-del-taccuino-personale` |
+| **FSE EDS - Professionisti sanitari** | `FSE-EDS-Professionisti-sanitari` |
+| **FSE EDS - Prototipo di base** | `FSE-EDS-Prototipo-di-base` |
+| **FSE EDS - Servizi di patient empowerment** | `FSE-EDS-Servizi-di-Patient-Empowerment` |
+| **FSE EDS - Servizi di variazione della posizione del cittadino rispetto al SSN** | `FSE-EDS-Servizi-di-variazione-della-posizione-del-cittadino-rispetto-al-SSN` |
+| **FSE EDS - Servizi per i miei percorsi di cura** | `FSE-EDS-Servizi-per-i-miei-percorsi-di-cura` |
+| **FSE EDS - Servizio di visualizzazione campagne di screening e prevenzione** | `FSE-EDS-Campagne-di-screening-e-prevenzione` |
+| **FSE EDS - Servizio la mia storia clinica** | `FSE-EDS-Servizio-la-mia-storia-clinica` |
+| **FSE EDS - Servizio per la visualizzazione delle deleghe** | `FSE-EDS-Servizio-per-la-visualizzazione-delle-deleghe` |
 
 
 Questi file, disponibili sia per Figma e Sketch, forniscono un quadro chiaro di come dovrebberoo apparire le funzionalità dell'Ecosistema Dati Sanitari del sito web del Fascicolo Sanitario Elettronico.
